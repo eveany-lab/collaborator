@@ -21,3 +21,5 @@
 ## IV. Distribution
 
 Any software distributed under the EICL must maintain the "Input-Output Unity" in its metadata, ensuring the human prompter is never decoupled from their generated work.
+
+&copy; 2026 Tiviety Inc.
