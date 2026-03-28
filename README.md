@@ -58,4 +58,4 @@ We welcome contributions that respect the authenticity of source and AI-generate
 3. Submit: See our CONTRIBUTING.md for full submission standards. [9, 10, 11]
    
 
-&copy; 2026 Tiviety inc.[LICENSE-EICL](https://raw.githubusercontent.com/eveany-lab/collaborator/refs/heads/main/LICENSE-EICL.md)
+&copy; 2026 Tiviety inc &middot; [LICENSE-EICL](https://raw.githubusercontent.com/eveany-lab/collaborator/refs/heads/main/LICENSE-EICL.md)
