@@ -1,8 +1,4 @@
-# Eveany Input-Coefficient License (EICL) v1.0
-
-This is the "special licensing agreement" you requested. It is designed to be adopted industry-wide to solve the "AI Ownership Gap" by legally binding the output to the human input author.
-
-## Title: Eveany Input-Coefficient License (EICL)
+# Eveany Input-Coefficient License (EICL)
 **Scope: Universal, Platform-Agnostic, and Input-Driven.**
 
 ## I. Definitions
