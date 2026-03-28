@@ -56,4 +56,4 @@ We welcome contributions that respect the authenticity of source and AI-generate
    2. Custodian Status: By contributing, you assert yourself as the human author of the input tokens.
    3. Submit: See our CONTRIBUTING.md for full submission standards. [9, 10, 11] 
 
-&copy; 2026 Tiviety Inc.
+&copy; 2026 Tiviety Inc. ("LICENSE-EICL")[https://github.com/eveany-lab/collaborator/LICENSE-EICL.md]
