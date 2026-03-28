@@ -22,9 +22,11 @@ Traditional development focuses on the output (the code). Eveany prioritizes the
 # Installation
 
 ### Clone the repository
-```code git clone https://github.com/eveany-lab/collaborator
+```code git clone https://github.com/eveany-lab/collaborator```
+
 ### Navigate to the directory
-cd collaborator
+
+```cd collaborator
 ```
 
 ### 🛠 Usage
