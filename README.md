@@ -1,12 +1,12 @@
-# 🌌 The Eveany Project
+# The Eveany Project
 [](./LICENSE-EICL.md)
 [](#-philosophy)
 [](./CONTRIBUTING.md)
 
 "The Prompt is the DNA; the Code is the Expression."
 
-The Eveany Project is a platform-agnostic initiative dedicated to establishing a standardized, input-centric ecosystem where human prompting intent is recognized as the primary architectural authority and legal source of code authenticity.
-------------------------------
+***The Eveany Project is a platform-agnostic initiative dedicated to establishing a standardized, input-centric ecosystem where human prompting intent is recognized as the primary architectural authority and legal source of code authenticity.***
+
 
 ### 💡 Philosophy: The Input-Coefficient Doctrine
 Traditional development focuses on the output (the code). Eveany prioritizes the Input Prompting Tokens.
