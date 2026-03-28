@@ -29,12 +29,23 @@ cd collaborator
 
 ### 🛠 Usage
 ```bash
+  collaborator $ ./eveany.py add attrib
+   > What name should we refer your project by?
+   Jackado-React
+   > What's the name of your Organization?
+   jackado.org
+   > Do you attribute creation to this year? (y,yes, n, no, or specify date, eg, 1970)
+   2026
 
+Eveany LICENSE EICL has been added to your project successfully!
+   
 ```
 
 
 # Example of executing a prompt-derived logic modulefrom eveany_core import catalyst
+```
 catalyst.run(intent="your_input_here")
+```
 
 ### 🤝 Contributing
 We welcome contributions that respect the authenticity of source and AI-generated codes.
