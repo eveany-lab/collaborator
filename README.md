@@ -22,12 +22,16 @@ Traditional development focuses on the output (the code). Eveany prioritizes the
 # Installation
 
 ### Clone the repository
-git clone https://github.com
+```code git clone https://github.com/eveany-lab/collaborator
 ### Navigate to the directory
-cd eveany-project
+cd collaborator
+```
 
 ### 🛠 Usage
-Briefly describe how to use the project or its core scripts.
+```bash
+
+```
+
 
 # Example of executing a prompt-derived logic modulefrom eveany_core import catalyst
 catalyst.run(intent="your_input_here")
